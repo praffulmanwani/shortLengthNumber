@@ -1,4 +1,3 @@
-# shortLengthNumber
 #What is this?
 this libray is use to convert a number into short scales notation
 #installation
