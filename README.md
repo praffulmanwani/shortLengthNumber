@@ -1,6 +1,5 @@
-#What is this?
-this libray is use to convert a number into short scales notation
-#installation
+# What is this?
+ this libray is use to convert a number into short scales notation
 # installation
 `npm i shortScaleNumber`
 # how it will work?
